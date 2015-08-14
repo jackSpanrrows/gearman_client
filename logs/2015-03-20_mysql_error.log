@@ -1,0 +1,41 @@
+2015-03-20 09:29:48	SQLSTATE[HY000] [2003] Can't connect to MySQL server on '192.168.110.52' (111)
+2015-03-20 09:30:22	SQLSTATE[HY000] [2003] Can't connect to MySQL server on '192.168.110.52' (111)
+2015-03-20 11:03:25	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-03-20 11:07:09	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-03-20 11:09:57	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-03-20 11:14:43	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-03-20 11:15:50	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2015-03-20 11:16:31	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+	成功插入100条数据!
+2015-03-20 11:38:35	成功插入100条数据!
+2015-03-20 11:41:50	成功插入100条数据!
+2015-03-20 11:45:48	成功插入100条数据!
+2015-03-20 11:45:50	成功插入100条数据!
+2015-03-20 11:45:52	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's','http://im1.tongbu.com/appicon/app/146/46/957644146_84A6B50E_75.jpg','2.0 ','' at line 1
+2015-03-20 12:45:20	成功插入最新游戏100条数据!
+2015-03-20 12:50:03	成功插入热门游戏100条数据!
+2015-03-20 12:50:05	成功插入热门应用100条数据!
+2015-03-20 12:50:05	成功插入最新游戏100条数据!
+2015-03-20 12:50:45	成功插入最新应用100条数据!
+2015-03-20 12:50:46	成功插入装机必备71条数据!
+2015-03-20 12:52:03	成功插入热门游戏100条数据!
+2015-03-20 12:52:03	成功插入热门应用100条数据!
+2015-03-20 12:52:06	成功插入最新游戏100条数据!
+2015-03-20 12:52:08	成功插入最新应用100条数据!
+2015-03-20 12:52:09	成功插入装机必备71条数据!
+2015-03-20 13:00:29	成功插入热门游戏100条数据!
+2015-03-20 13:00:38	成功插入热门应用100条数据!
+2015-03-20 13:00:40	成功插入最新游戏100条数据!
+2015-03-20 13:00:43	成功插入最新应用100条数据!
+2015-03-20 13:00:44	成功插入装机必备71条数据!
+2015-03-20 13:02:53	成功插入iPhone免费软件排行榜100条数据!
+2015-03-20 13:02:54	成功插入iPhone收费软件排行榜100条数据!
+2015-03-20 13:02:56	成功插入iPhone畅销软件排行榜100条数据!
+2015-03-20 13:03:35	成功插入热门游戏100条数据!
+2015-03-20 13:03:36	成功插入热门应用100条数据!
+2015-03-20 13:03:37	成功插入最新游戏100条数据!
+2015-03-20 13:03:38	成功插入最新应用100条数据!
+2015-03-20 13:03:38	成功插入装机必备71条数据!
+2015-03-20 13:03:41	成功插入iPhone免费软件排行榜100条数据!
+2015-03-20 13:03:43	成功插入iPhone收费软件排行榜100条数据!
+2015-03-20 13:03:44	成功插入iPhone畅销软件排行榜100条数据!

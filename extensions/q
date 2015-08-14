@@ -1,0 +1,33 @@
+#!/bin/bash
+#自动启动Gearman的后台进程rman_tongbutui_get_hotest_version.php
+#a=nohup php gearman_tongbutui_get_hotest_version.php &
+#for((i=0;i<5;i++));do
+#	echo $a
+#done
+i=0
+while [ $i -le 5 ]
+do
+#	nohup php gearman_tongbutui_get_hotest_version.php &
+	echo $i
+done
+#`nohup php gearman_tongbutui_get_hotest_version.php &`
+#nohup php gearman_tongbutui_get_hotest_version.php &
+#nohup php gearman_tongbutui_get_hotest_version.php &	
+#if [ $? eq 0 ];then
+#	echo "the script is run for success!"
+#	echo -e \\n
+#else
+#	echo "the script is fail!"
+#	exit 0
+#fi
+
+#exit 0
+#if [ $? -eq 0 ];then
+#	echo "脚本执行成功"
+#else
+#	echo "the script is fail"
+#exit 0
+#fi
+
+
+exit 0

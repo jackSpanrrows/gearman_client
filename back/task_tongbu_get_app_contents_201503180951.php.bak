@@ -1,0 +1,36 @@
+<?php
+/*
+ * @Author AChan
+ * Date 20150318
+ * explain 抓取同步推软件应用
+ */
+
+require_once('../public/Signfork.php');
+require_once('../public/simple_html_dom.php');
+require_once("../public/curlUnit.php");
+include_once('../config/config.class.php');
+$beginTime =time();
+//$url = "http://app.tongbu.com/iphone-tuijian-1-1/";
+$urls = array("http://app.tongbu.com/iphone-tuijian-1-","http://app.tongbu.com/iphone-tuijian-2-","http://app.tongbu.com/iphone-tuijian-3-1/","http://app.tongbu.com/iphone-tuijian-4-","http://app.tongbu.com/iphone-tuijian-5-");
+$nums = count($urls);
+$hotGame = array();
+$data = array();
+$client = new GearmanClient();
+$client->addServer();
+$i = 0;
+for($j=0;$j<$nums;$j++)
+{
+    $url = $urls[$j].$j.'/';
+    $html = file_get_html($url);
+    foreach($html->find(".category") as $values)
+    {
+	$arr[] = $values->text();
+    }
+    print_r($arr);
+    //echo count($arr);
+    die;
+}
+
+/************************ free data *****************************************/
+//$freeData = array();
+

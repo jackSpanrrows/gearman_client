@@ -1,0 +1,37 @@
+2015-03-31 16:15:53	SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.app_get_base_infor' doesn't exist
+2015-03-31 16:25:07	SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.app_get_base_infor' doesn't exist
+2015-03-31 16:27:03	SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.app_get_base_infor' doesn't exist
+2015-03-31 16:29:23	SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.app_get_base_infor' doesn't exist
+2015-03-31 16:31:46	SQLSTATE[HY000] [1130] Host 'fc41.com' is not allowed to connect to this MySQL server
+2015-03-31 16:31:55	SQLSTATE[HY000] [1130] Host 'fc41.com' is not allowed to connect to this MySQL server
+2015-03-31 16:32:39	SQLSTATE[HY000] [1130] Host 'fc41.com' is not allowed to connect to this MySQL server
+2015-03-31 16:38:11	SQLSTATE[HY000] [1130] Host 'fc41.com' is not allowed to connect to this MySQL server
+2015-03-31 16:39:06	SQLSTATE[HY000] [1130] Host 'fc41.com' is not allowed to connect to this MySQL server
+2015-03-31 16:49:33	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CATEGORY' in 'field list'
+2015-03-31 16:50:24	成功插入热门游戏100条数据!
+2015-03-31 16:50:26	成功插入热门应用100条数据!
+2015-03-31 16:50:29	成功插入最新游戏100条数据!
+2015-03-31 16:50:34	成功插入最新应用100条数据!
+2015-03-31 16:50:35	成功插入装机必备71条数据!
+2015-03-31 16:50:38	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Version' in 'field list'
+2015-03-31 16:56:09	成功插入热门游戏100条数据!
+2015-03-31 16:56:11	成功插入热门应用100条数据!
+2015-03-31 16:56:14	成功插入最新游戏100条数据!
+2015-03-31 16:56:16	成功插入最新应用100条数据!
+2015-03-31 16:56:17	成功插入装机必备71条数据!
+2015-03-31 16:56:21	SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+2015-03-31 18:18:59	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.html),('足记 - 像电影一样去生活','http://im1.tongbu.com/appicon/app/3' at line 1
+2015-03-31 18:20:29	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://app.tongbu.com//940547441_menghuanxiyou.html),('勇者大冒险（腾讯动' at line 1
+2015-03-31 18:21:36	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://app.tongbu.com/940547441_menghuanxiyou.html),('勇者大冒险（腾讯动作' at line 1
+2015-03-31 18:25:57	SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SOURCE' in 'field list'
+2015-03-31 18:26:27	成功插入iPhone免费软件排行榜100条数据!
+2015-03-31 18:26:30	成功插入iPhone收费软件排行榜100条数据!
+2015-03-31 18:26:33	成功插入iPhone畅销软件排行榜100条数据!
+2015-03-31 18:59:28	成功插入热门游戏100条数据!
+2015-03-31 18:59:33	成功插入热门应用100条数据!
+2015-03-31 18:59:35	成功插入最新游戏100条数据!
+2015-03-31 18:59:39	成功插入最新应用100条数据!
+2015-03-31 18:59:42	成功插入装机必备71条数据!
+2015-03-31 18:59:43	成功插入iPhone免费软件排行榜100条数据!
+2015-03-31 18:59:46	成功插入iPhone收费软件排行榜100条数据!
+2015-03-31 18:59:48	成功插入iPhone畅销软件排行榜100条数据!
